@@ -3,14 +3,11 @@ kind: Component
 metadata:
   name: artist-service
   description: A Node.js microservice for managing artist profiles and data.
-    annotations:
+  annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
     - nodejs
     - artist
-  annotations:
-    backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: my-org/artist-service
 spec:
   type: service
   lifecycle: production
