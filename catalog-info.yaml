@@ -5,6 +5,7 @@ metadata:
   description: A Node.js microservice for managing artist profiles and data.
   annotations:
     backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: valentinCimpan/backstageTest
   tags:
     - nodejs
     - artist
